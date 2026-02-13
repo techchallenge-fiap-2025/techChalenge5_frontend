@@ -72,8 +72,8 @@ Acesse o link gerado (ex: http://localhost:5173) no seu navegador.
 ### Passo 4: Login
 Você pode ter acesso à plataforma utilizando o seguinte login abaixo:
 
-**Login:** admin@escola.com
-**Senha:** PlataformaEDC@2026
+**Login:** admin@escola.com <br>
+**Senha:** PlataformaEDC@2026 <br>
 
 <img width="1906" height="908" alt="image" src="https://github.com/user-attachments/assets/5afd8df4-4fa7-42c4-a53d-260dc2e9836a" />
 
