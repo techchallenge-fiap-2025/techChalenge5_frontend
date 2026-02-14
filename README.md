@@ -16,8 +16,6 @@ Com base na estrutura de dados e nos scripts de automação do projeto, a plataf
 
 **Alunos**: Acessam a plataforma para consultar aulas, cronograma, realizar atividades e acompanhar seu progresso acadêmico.
 
-**Responsáveis**: Possuem visão do desempenho e frequência dos alunos, estreitando o vínculo entre escola e família.
-
 
 ---
 
@@ -131,18 +129,21 @@ Na aba "Matérias", o administrador pode visualizar, cadastrar, editar e excluir
 <br>
 <br>
 
-Em aulas, o administrador tem acesso ao cronograma de atividades agendados pelos professores.
+Em aulas, o administrador tem acesso ao cronograma de atividades agendados pelos professores e pode adicionar aulas, permitindo que professores tenham acesso ao seu cronograma e turma.
 <img width="1898" height="906" alt="image" src="https://github.com/user-attachments/assets/d5096dc2-d078-4a50-936b-48654098c002" />
 
 <br>
+
 
 Ao clicar na aula ou atividade agendada, tem acesso ao cronograma diário, com a atividade inclusa. É importante ressaltar que o administrador pode excluir uma aula do cronograma, mas não pode inserir ou editar a atividade, já que esta ação é de responsabilidade do Professor, mantendo sua autonomia pedagógica.
 <img width="1884" height="900" alt="image" src="https://github.com/user-attachments/assets/9e40b3c3-3cc1-42ef-892d-7a2e48cea2dc" />
 
 
 ### Visão do professor
-O professor tem acesso à visualização das telas anteriores, mas não pode alterá-las. Somente na aba "Calendário", ele pode adicionar uma atividade.
+O professor tem acesso à visualização das telas anteriores, mas só pode adicionar atividades e cursos correspondentes a sua disciplina e turma (previamente cadastradas por um administrador)
 <img width="1884" height="901" alt="image" src="https://github.com/user-attachments/assets/c00d73bf-0ec9-4ea2-86ad-dadcbcb5aedb" />
+<img width="1890" height="904" alt="image" src="https://github.com/user-attachments/assets/4ac6a996-dfc5-4d87-9e98-072c8d1dde6a" />
+
 
 <br>
 <br>
